@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./quadrilateral/source/find"
+    ]
+}
